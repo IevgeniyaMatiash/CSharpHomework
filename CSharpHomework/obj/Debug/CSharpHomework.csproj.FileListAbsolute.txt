@@ -1,0 +1,7 @@
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\obj\Debug\CSharpHomework.csprojResolveAssemblyReference.cache
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\obj\Debug\CSharpHomework.csproj.CoreCompileInputs.cache
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\bin\Debug\CSharpHomework.exe.config
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\bin\Debug\CSharpHomework.exe
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\bin\Debug\CSharpHomework.pdb
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\obj\Debug\CSharpHomework.exe
+C:\Users\Ievgeniya_Matiash\source\repos\CSharpHomework\CSharpHomework\obj\Debug\CSharpHomework.pdb
